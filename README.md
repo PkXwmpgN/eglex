@@ -60,16 +60,16 @@
 
 ### Building
 * *Windows*
-    1. Install [GLES-Emulator]. Add the directory to PATH Environment Variable **GLES_EMULATOR_DIR**
-    2. Install [CMake]
-    3. Install [Git Bash]
-    4. Install [Microsoft Visual Studio Express 2013 for Windows Desktop]
-    5. Create a project
+    * Install [GLES-Emulator]. Add the directory to PATH Environment Variable **GLES_EMULATOR_DIR**
+    * Install [CMake]
+    * Install [Git Bash]
+    * Install [Microsoft Visual Studio Express 2013 for Windows Desktop]
+    * Create a project
 
-        cd eglex
-        ./project.sh
+            cd eglex
+            ./project.sh
 
-    6. Open the solution file **build/eglex.sln** in Visual Studio and build
+    * Open the solution file **build/eglex.sln** in Visual Studio and build
     
 [GLES-Emulator]:http://malideveloper.arm.com/develop-for-mali/tools/software-tools/opengl-es-emulator/
 [CMake]:http://www.cmake.org/download/
